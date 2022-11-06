@@ -12,5 +12,5 @@ InceptionResnetV2 is used
 Epoch size = 100
 Epochs = 10
 Using the following the training accuracy of the model is 88.59% as well as the testing accuracy is 88.54%.
-
+![g2](g2.jpg)
 
