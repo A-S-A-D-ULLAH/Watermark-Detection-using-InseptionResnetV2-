@@ -5,4 +5,4 @@ This algorithm detect watermark on images it may be in the form of text or signa
 https://www.kaggle.com/datasets/felicepollano/watermarked-not-watermarked-images
 
 Datset set contain two folders watermark images and no watermark images, both folder have 25k images. 
-
+![g1](g1.jpg)
