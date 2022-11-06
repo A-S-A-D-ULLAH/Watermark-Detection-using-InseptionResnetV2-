@@ -8,7 +8,7 @@ Datset set contain two folders watermark images and no watermark images, both fo
 ![g1](g1.jpg)
 
 ## Methodology
-InceptionResnetV2 is used /t
+InceptionResnetV2 is used <br/>
 Epoch size = 100 /t
 Epochs = 10 /t
 Using the following the training accuracy of the model is 88.59% as well as the testing accuracy is 88.54%.
