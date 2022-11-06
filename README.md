@@ -4,5 +4,13 @@ This algorithm detect watermark on images it may be in the form of text or signa
 ## Dataset
 https://www.kaggle.com/datasets/felicepollano/watermarked-not-watermarked-images
 
-Datset set contain two folders watermark images and no watermark images, both folder have 25k images. 
+Datset set contain two folders watermark images and no watermark images, both folders have 25k images. 
 ![g1](g1.jpg)
+
+## Methodology
+InceptionResnetV2 is used
+Epoch size = 100
+Epochs = 10
+Using the following the training accuracy of the model is 88.59% as well as the testing accuracy is 88.54%.
+
+
